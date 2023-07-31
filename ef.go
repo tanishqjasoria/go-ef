@@ -2,7 +2,7 @@ package ef
 
 import (
 	"errors"
-	"github.com/willf/bitset"
+	"github.com/bits-and-blooms/bitset"
 	"log"
 	"math"
 )
